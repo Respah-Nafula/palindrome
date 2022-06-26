@@ -10,6 +10,6 @@ def string_palindrome(string):
             left += 1        
             right -= 1
         print ("The string is a palindrome" )
-string_palindrome("civic")
+string_palindrome("ken")
        
        
